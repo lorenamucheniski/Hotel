@@ -40,6 +40,8 @@
 
 .top_header_nav li {
     list-style: none;
+    color: var(--cor1);
+    font-weight: bold;
 }
 
 .top_header_nav a {
